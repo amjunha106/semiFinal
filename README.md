@@ -28,3 +28,5 @@
 <h1>2. 마이페이지</h1>
 <h3>회원정보 수정클릭시 아이디를 제외한 항목들의 정보수정/회원탈퇴 가능</h3>
 <img src="/images/image6.png" alt="Image">
+<h1>2-1) 마이페이지 - 예약한 열차조회</h1>
+<img src="/images/image7.png" alt="Image">
