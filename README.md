@@ -25,3 +25,5 @@
 <img src="/images/image4.png" alt="Image">
 <h1>1-2) 메인페이지 - 노선도</h1>
 <img src="/images/image5.png" alt="Image">
+<h1>2. 마이페이지</h1>
+<img src="/images/image6.png" alt="Image">
