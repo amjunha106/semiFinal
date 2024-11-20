@@ -15,8 +15,8 @@
 <li>Jsp : Spring Mvc패턴의 view단으로 사용하기위해 템플릿 역할로 사용하였습니다.</li>
 <li>Javascript : 메인페이지의 이미지슬라이드와 같은 동적인기능을 넣기위해 사용하였습니다.</li>
 <li>CSS : 웹 페이지의 스타일과 레이아웃을 정하기 위해 사용하였습니다.</li>
-<br>
 <h2>백엔드 (Back-end)</h2>
-<li>SpringBoot(java) : Restful Api를 구축하기 위해 사용하였습니다.</li>
+<li>java(eclipse사용) : Restful Api를 구축하기 위해 사용하였습니다.</li>
 <h2>데이터베이스 (Database)</h2>
 <li>Oracle : 회원/열차정보/예약정보 데이터를 저장하고 조회하기위해 사용하였습니다.</li>
+<h1>1. 메인페이지</h1>
