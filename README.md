@@ -7,4 +7,4 @@
 주제 : 열차예약/조회 사이트 만들기<br>
 <br><br><br>
 <h1>팀원소개 및 역학분담</h1>
-
+<img src="/images/image2.png" alt="Image">
