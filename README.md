@@ -9,5 +9,3 @@
 <h1>팀원소개 및 역학분담</h1>
 <img src="/images/image2.png" alt="Image">
 <br>
-# 프로젝트 기술스택
-## 프론트엔드(
