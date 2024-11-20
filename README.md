@@ -20,3 +20,4 @@
 <h2>데이터베이스 (Database)</h2>
 <li>Oracle : 회원/열차정보/예약정보 데이터를 저장하고 조회하기위해 사용하였습니다.</li>
 <h1>1. 메인페이지</h1>
+<img src="/images/image3.png" alt="Image">
