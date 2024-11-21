@@ -9,6 +9,8 @@
 <br>
 <details>
   <summary>프로젝트 구조</summary>
+
+  ```plaintext
 C:.
 ├─build
 │  └─classes
@@ -62,7 +64,7 @@ C:.
                       └─a04_tview.jsp
                       └─a05_t_list.jsp
 </details>
-<br><br><br>
+<br>
 <h1>팀원소개 및 역학분담</h1>
 <img src="/images/image2.png" alt="Image">
 
