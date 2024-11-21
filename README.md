@@ -5,7 +5,60 @@
 프로젝트 기간 : 2024-06-19 ~ 2024-07-12<br>
 인원 : 3인<br>
 주제 : 열차예약/조회 사이트 만들기<br>
-사용언어 : JAVA, JAVASCRIPT 
+사용언어 : JAVA, JAVASCRIPT
+<br>
+<details>
+  <summary>프로젝트 구조</summary>
+C:.
+├─.settings
+├─build
+│  └─classes
+│      ├─htproject
+│      │  ├─mvc
+│      │  │  ├─Controller
+│      │  │  ├─Dao
+│      │  │  └─Service
+│      │  └─z01_vo
+│      └─resource
+└─src
+    ├─build
+    │  └─classes
+    │      ├─htproject
+    │      │  ├─mvc
+    │      │  │  ├─Controller
+    │      │  │  ├─Dao
+    │      │  │  └─Service
+    │      │  └─z01_vo
+    │      └─resource
+    └─main
+        ├─java
+        │  ├─htproject
+        │  │  ├─mvc
+        │  │  │  ├─Controller
+        │  │  │  ├─Dao
+        │  │  │  └─Service
+        │  │  └─z01_vo
+        │  └─resource
+        └─webapp
+            ├─a00_com
+            ├─META-INF
+            ├─semi-final
+            │  ├─노선도
+            │  ├─메인슬라이드
+            │  └─추천여행지
+            │      ├─강릉
+            │      ├─순천
+            │      └─진주
+            │  └─MainHome.jsp
+            │  └─Recomend.jsp
+            │  └─RouteMap.jsp
+            │  └─styles.css
+            ├─WEB-INF
+            │  ├─lib
+            │  └─views
+            │      └─mvc
+            └─z01_upload
+</details>
 <br><br><br>
 <h1>팀원소개 및 역학분담</h1>
 <img src="/images/image2.png" alt="Image">
