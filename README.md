@@ -10,7 +10,6 @@
 <details>
   <summary>프로젝트 구조</summary>
 C:.
-├─.settings
 ├─build
 │  └─classes
 │      ├─htproject
@@ -53,11 +52,15 @@ C:.
             │  └─Recomend.jsp
             │  └─RouteMap.jsp
             │  └─styles.css
-            ├─WEB-INF
-            │  ├─lib
-            │  └─views
-            │      └─mvc
-            └─z01_upload
+            └─WEB-INF
+               ├─lib
+               └─views
+                   └─mvc
+                      └─a01_MyPage.jsp
+                      └─02_memberInsertForm.jsp
+                      └─a03_MemDetail.jsp
+                      └─a04_tview.jsp
+                      └─a05_t_list.jsp
 </details>
 <br><br><br>
 <h1>팀원소개 및 역학분담</h1>
