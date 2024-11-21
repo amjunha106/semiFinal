@@ -21,7 +21,7 @@
 <li>Oracle : 회원/열차정보/예약정보 데이터를 저장하고 조회하기위해 사용하였습니다.</li>
 <h1>1. 메인페이지</h1>
 <img src="/images/image3.png" alt="Image">
-<h1>1-2) 메인페이지 - 열차조회</h1>
+<h1>1-1) 메인페이지 - 열차조회</h1>
 <img src="/images/image8.png" alt="Image">
 <h1>1-2) 메인페이지 - 추천여행지</h1>
 <img src="/images/image4.png" alt="Image">
